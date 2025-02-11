@@ -1,10 +1,3 @@
-### **📊 Amazon Sales Analysis Dashboard – Unlocking Business Insights with Power BI**  
-
-#### **📌 Resume Description (6 Words):**  
-Power BI dashboard for Amazon sales insights.  
-
----
-
 ## 🚀 **Amazon Sales Analysis Dashboard**  
 
 A **Power BI dashboard** designed to analyze Amazon's sales performance, monitor KPIs, and drive **data-driven decisions** across regions, product categories, and time periods.
